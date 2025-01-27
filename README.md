@@ -4,11 +4,11 @@ EmpathIQ is an intelligent chatbot that understands and responds to users' emoti
 
 ## Features
 
-* 🧠 Intelligent responses using Google's Gemini AI
-* 💭 Sentiment analysis for emotional awareness
-* 💬 Real-time chat interface
-* 🔒 Secure user authentication
-* 📱 Responsive design
+* Intelligent responses using Google's Gemini AI
+* Sentiment analysis for emotional awareness
+* Real-time chat interface
+* Secure user authentication
+* Responsive design
 
 ## Tech Stack
 
@@ -99,4 +99,4 @@ npm run build
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
